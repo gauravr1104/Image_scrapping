@@ -11,6 +11,7 @@ Img_scrapping/
 │   └── templates/
 │       └── index.html
 ├── Requirement.txt
+
 🚀 Features
 Keyword-based image scraping
 
