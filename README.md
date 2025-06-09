@@ -21,40 +21,6 @@ Lightweight design using Flask and HTML
 
 Downloaded images stored locally in the static/Images/ directory
 
-⚙️ Installation
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/gauravr1104/Image_scrapping.git
-cd Image_scrapping/Img_scrapping
-Create a virtual environment (optional but recommended)
-
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the dependencies
-
-bash
-Copy
-Edit
-pip install -r Requirement.txt
-🧪 Usage
-Run the backend server
-
-bash
-Copy
-Edit
-cd Backend
-python main.py
-Open the frontend
-Navigate to http://127.0.0.1:5000/ in your web browser.
-
-Search for images
-Enter a keyword, and the app will scrape and display related images.
 
 🛠️ Built With
 Python
