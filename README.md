@@ -27,7 +27,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Image_scrapping.git
+git clone https://github.com/gauravr1104/Image_scrapping.git
 cd Image_scrapping/Img_scrapping
 Create a virtual environment (optional but recommended)
 
